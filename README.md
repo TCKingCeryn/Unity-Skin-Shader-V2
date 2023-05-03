@@ -8,4 +8,3 @@ A refactored skin shader for Unity's Built-In Render Pipeline, with tesselation,
 Current Version: v1.0
 
 ## Licenses
-Includes an open source modified fork of FullBodyFPSController by SlapChickenGames, found here: https://www.youtube.com/watch?v=HIBRqPMj1m0
